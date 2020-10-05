@@ -3,7 +3,7 @@ package main
 import (
 	"runtime"
 
-	"ebook/httpd"
+	"github.com/luckypoem/ebook/httpd"
 )
 
 func main() {
